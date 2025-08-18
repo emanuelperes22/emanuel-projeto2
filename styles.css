@@ -25,6 +25,14 @@ header {
     margin-right: 5%;
 }
 
+
+.nome-site {
+    margin: 0;
+    font-size: 30px;
+    color: #333;
+    font-family: "DynaPuff", sans-serif;
+}
+
 h1 {
     font-size: 40px;
 }
