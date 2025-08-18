@@ -26,13 +26,6 @@ header {
 }
 
 
-.nome-site {
-    margin: 0;
-    font-size: 30px;
-    color: #333;
-    font-family: "DynaPuff", sans-serif;
-}
-
 h1 {
     font-size: 40px;
 }
@@ -65,14 +58,4 @@ p {
 
 .categoria h2 {
     color: rgb(42, 122, 228);
-}
-.secao-logo {
-    display: flex;
-    align-items: center;
-    gap: 15px; 
-}
-
-.logo {
-    height: 90px;
-    width: auto;
 }
