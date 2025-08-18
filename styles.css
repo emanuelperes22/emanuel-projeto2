@@ -58,3 +58,13 @@ p {
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
+.secao-logo {
+    display: flex;
+    align-items: center;
+    gap: 15px; 
+}
+
+.logo {
+    height: 90px;
+    width: auto;
+}
