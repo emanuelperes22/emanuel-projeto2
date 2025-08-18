@@ -68,6 +68,5 @@ p {
 
 .logo img {
     max-height: 150px;
-    width: auto;
-    gap: 15px;
+    width: 15px;
 }
